@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: User-service
+  datasource:
+    url: jdbc:h2:mem:userdb
+    driver-class-name: org.h2.Driver
+    username: BaseUser
+    password:
+  h2:
+    console:
+      enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 8083
