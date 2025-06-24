@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd138487-3ea8-42e9-8268-65110bfdd515" name="Changes" comment="Created Main Functional Modules!!">
+    <list default="true" id="dd138487-3ea8-42e9-8268-65110bfdd515" name="Changes" comment="Vehicle module setup rightly!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicle_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vehicle_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parking_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parking_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/payment_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user_service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -232,7 +234,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750788558375</updated>
       <workItem from="1750788559925" duration="4494000" />
-      <workItem from="1750793094244" duration="1626000" />
+      <workItem from="1750793094244" duration="3558000" />
     </task>
     <task id="LOCAL-00001" summary="Created Main Functional Modules!!">
       <option name="closed" value="true" />
@@ -242,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750792784571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vehicle module setup rightly!!">
+      <option name="closed" value="true" />
+      <created>1750794926312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750794926312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Main Functional Modules!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Main Functional Modules!!" />
+    <MESSAGE value="Vehicle module setup rightly!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vehicle module setup rightly!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
